@@ -581,6 +581,7 @@ PAGE = r"""<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>__HOSTNAME__ · chrony</title>
+<link rel="icon" type="image/png" href="data:image/x-icon;base64,AAABAAEAGBgAAAEAIABpAwAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAYAAAAGAgGAAAA4Hc9+AAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAxtJREFUSIm1lU9oVFcUxn/nziQ8pQUJXYq4F1sJpaua1wzpqotR502q0IVUC6EiLkowzkTjYp5VooiImragS/PnZYLYpcQ8W1yoSDfdlSJF6EZcFYkz793j4r2ZZPImMVI8m8u955zvO/fcc86F9yyyWcPB22fQfOxgQI1dDvf/+P8JvggqjiIHgCLwGfBRqnoBPALugNRDr7b8TgRDs6doGjMMXAK2vyXIf4DRnPbOLpYnMkrTJep805gbwEwK/hTkOMIuVLcgbEFkF3A80bEDmImlcW0gqOQ3vEFhYYI4jm4AI8Ar4ITE3Fz62rfdQnfnKgaRo8BlYCtwvZlvHHu4b7Jt08EYx9HBVeDF0PPvtW+2cBpi66gShWU/AgjL5yzwsxuM/w16F/i+J+oNgdlMitz50w5wId2OrgYH0AhH4V+EsbU3Cb3aPeCHdDs5MDfuZAhQ65Hk86kRmVoLokkyHZCetToAC1PAH8AOEfWyBLA/WeSX+6VaJucrj6VxN4LfPN8CP3VipQSD9TGATxMgXewGsJme1BXf/r31ygqB1ZwD9AHEwrP13N8mOUzLt8+oOG0CrFrAAki0DpC2z4tuUP24cCvbVBbbuW0RGG00gJdJGGZnV/zX+WWEMrANeBx/GF1xg/G+DiORlu9LsbbRJrg/fBHgCYCghW4ED745S1jyf1VkN3AeOAr6pxtUDxdmR9MoGErNnyyVk2G4uooW0vW7gflqZoS0ibzaq9DzJ4BPSEbFlwCF+pgBjqzBWiGwRurAc6BflMPrEbQk9Py/Qs//SqweWRyeJLa5b4F+4Lkq9ZZdR+25QfUgcBv4D6EYlvx1SrZT3KBaAO4AHwCHQs+fbuk6ZlGP6HRTxQVGUO66QXVUjE4tHTjXddgNzp3KWzEjJCNmKzDVm9Pp1TaZ7nGDSh7kKsnQg6T9rwG/gz4zKljRnSCfA8eAPanddUROhKVatCEBwNDMSZq5/OY/HOVkszeeflg8n1Fu2P/u/LgD6qGUSB6wVfcvSMp6AaEelvx3+zK7yeBMBc2JgyjWmuUH5dpmXd+vvAGYIhZKS9oA8AAAAABJRU5ErkJggg==">
 <script src="/chart.umd.min.js"></script>
 <style>
 /* 7-segment LED font for the TrueTime theme clock. Loads from the internet
