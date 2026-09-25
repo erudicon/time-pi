@@ -13,6 +13,10 @@ verbose 1
 # Force hardware timestamping
 time_stamping         hardware
 
+# Quickly recover from faulty NIC timestamps
+tx_timestamp_timeout 100
+fault_reset_interval ASAP
+
 # Act only as a master. ('serverOnly' on later versions...)
 serverOnly 1
 
